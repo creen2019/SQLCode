@@ -26,7 +26,7 @@ create table RankC(
 	PRIMARY KEY(state, city, year)
 );
 
-#ignore this
+
 
 create table President(
 	PName     	char(15)  not null,
